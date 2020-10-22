@@ -1,0 +1,24 @@
+commit 29632c0d67b0114e7f7024a4c614b426a7781814
+Author: Tahir Montgomery <montgomeryt@mail.usf.edu>
+Date:   Sun Oct 18 00:34:50 2020 -0400
+
+    added tests for searching friend list
+
+commit a20fd8667e169a11d99ac5d9f0714ab41f0c7211
+Author: Tahir Montgomery <montgomeryt@mail.usf.edu>
+Date:   Fri Oct 16 23:47:24 2020 -0400
+
+    Added file for removing a friend from list of friends
+
+commit d919d5850d3841767503f464c8a86c9a91984c12
+Author: Tahir Montgomery <montgomeryt@mail.usf.edu>
+Date:   Thu Oct 15 22:52:41 2020 -0400
+
+    completed the friend_search file
+
+commit 5c4dbc7f013d440b8a3bb965bb6ce89e27fa5007
+Author: Tahir Montgomery <montgomeryt@mail.usf.edu>
+Date:   Tue Oct 13 22:13:56 2020 -0400
+
+    added new fields to database
+
